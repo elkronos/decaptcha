@@ -42,5 +42,5 @@ This repository implements an advanced challenge-response system designed to dis
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/decaptcha.git
+   git clone https://github.com/elkronos/decaptcha.git
    cd decaptcha
